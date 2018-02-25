@@ -1,0 +1,11 @@
+*.o
+*.bin
+*.elf
+
+epoch-vocab.c
+epoch-vocab/.lock-waf_linux2_build
+
+epoch-vocab/package.json
+epoch-vocab/wscript
+nixTime-master/*
+watch_and_learn_vocab_template-master/*
